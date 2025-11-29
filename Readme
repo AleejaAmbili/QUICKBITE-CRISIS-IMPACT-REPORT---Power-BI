@@ -1,0 +1,31 @@
+# 🚀 QuickBite Express – Crisis Impact & Recovery Dashboard (Power BI)
+
+### 📊 Overview
+This project analyzes how **QuickBite Express**, a food delivery startup, was affected during a dual crisis — a **food safety scandal** and a **monsoon-led operational failure**.  
+Using Power BI, the dashboard uncovers **revenue loss, customer churn, delivery inefficiencies, and sentiment decline**, and proposes a data-driven recovery plan.
+
+---
+
+### 🎯 Objectives
+1️⃣ Quantify the impact on orders, revenue, and customer ratings  
+2️⃣ Evaluate delivery performance and partner contribution  
+3️⃣ Segment customers into Loyal, Recoverable, and Lost groups  
+4️⃣ Recommend actions to regain revenue and trust  
+
+---
+
+### 💡 Key Insights
+- 💸 **$26.68M revenue loss** and **71% order decline** (237K → 69K)  
+- ⭐ **Average rating dropped by 2.01 points** (4.5 → 2.5)  
+- 🚚 **Delivery time increased by 20 minutes**, cancellations tripled to 3%  
+- 👥 **40% of customers are recoverable** and can be reactivated  
+- 🤝 **Top 20 restaurant partners generate 68% of total revenue**
+
+---
+
+### ⚙️ Tech Stack
+**Power BI | DAX | Power Query | Data Modeling | Business Intelligence**
+
+---
+
+### 📁 Folder Structure
