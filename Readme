@@ -26,6 +26,13 @@ Using Power BI, the dashboard uncovers **revenue loss, customer churn, delivery 
 ### ⚙️ Tech Stack
 **Power BI | DAX | Power Query | Data Modeling | Business Intelligence**
 
----
+
+### 📁 Folder Structure
+---QuickBite_Crisis_Recovery_Dashboard/
+│
+├── Data/ → all dimension & fact tables
+├── Docs/ → metadata, analysis, and problem statement
+├── QuickBite_Crisis_Recovery_Report.pbix → Power BI file
+└── QuickBite_Crisis_Recovery_Presentation.pptx → presentation deck
 
 
