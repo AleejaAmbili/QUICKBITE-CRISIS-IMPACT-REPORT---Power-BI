@@ -26,13 +26,26 @@ Using Power BI, the dashboard uncovers **revenue loss, customer churn, delivery 
 ### ⚙️ Tech Stack
 **Power BI | DAX | Power Query | Data Modeling | Business Intelligence**
 
+---
 
-### 📁 Folder Structure
----QuickBite_Crisis_Recovery_Dashboard/
-│
-├── Data/ → all dimension & fact tables
-├── Docs/ → metadata, analysis, and problem statement
-├── QuickBite_Crisis_Recovery_Report.pbix → Power BI file
-└── QuickBite_Crisis_Recovery_Presentation.pptx → presentation deck
+### 🔁 Recovery Framework (3R Strategy)
+1️⃣ **Regain Trust:** Suspend risky partners & launch “Safety Shield” certification  
+2️⃣ **Reforest Loyalty:** Focus 80% marketing on 26.9% recoverable customers  
+3️⃣ **Reinvent Operations:** Introduce “Monsoon Mode” to manage weather risks  
+
+---
+
+### 📈 Outcomes
+- Built a 6-page interactive Power BI dashboard  
+- Shifted focus from *“What happened?”* to *“Who can we recover, and how?”*  
+- Provided actionable insights for data-driven recovery planning  
+
+---
+
+### 🔗 Resources
+📊 **Live Dashboard:** [Add link if available]  
+### 🙌 Credits
+Developed as part of the **Codebasics Resume Project Challenge**
+
 
 
